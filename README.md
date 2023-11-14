@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nanang Arifudin</h1>
-<h3 align="center">My name is Nanang Arifudin and I'm an Android Developer with over 1 year of experience in native Android app development. Currently, I'm in my final semester at Universitas Gadjah Mada. Feel free to check out my GitHub repositories to see some of my recent projects. If you have any questions or would like to collaborate on a project, don't hesitate to reach out to me. Thank you for visiting my profile!</h3>
+<h3 align="center">My name is Nanang Arifudin and I'm an Android Developer with over 1 year of experience in native Android app development. If you have any questions or would like to collaborate on a project, don't hesitate to reach out to me. Thank you for visiting my profile!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nngarfdn&label=Profile%20views&color=0e75b6&style=flat" alt="nngarfdn" /> </p>
 
