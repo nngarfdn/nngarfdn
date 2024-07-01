@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nanang Arifudin</h1>
-<h3 align="center">My name is Nanang Arifudin and I'm an Android Developer with over 1 year of experience in native Android app development. If you have any questions or would like to collaborate on a project, don't hesitate to reach out to me. Thank you for visiting my profile!</h3>
+<h3 align="center">Experienced native Android developer proficient in Kotlin and Java. Developed and maintained high-quality applications, demonstrating strong adaptability, teamwork, and communication skills. Seeking collaborative opportunities to leverage expertise and achieve common objectives. Thank you for visiting my profile!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nngarfdn&label=Profile%20views&color=0e75b6&style=flat" alt="nngarfdn" /> </p>
 
